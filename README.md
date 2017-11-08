@@ -3,7 +3,7 @@
 <h2>El documento describe una demo básica para automatización de tareas con RPA.</h2>
 
 <p>
-Descripcion del escenario:</p>
+<b>Descripción del escenario:</b></p>
 <ul>
 <li>Existe una pagina web con los siguientes campos: Nombre,Apellido,Telefono,Edad.http://localhost:9990/Test/.</li>
 <li>Dicha información se encuentra en archivos de excel en la carpeta: C:\CreacionClientes (CreacionClientes.zip).</li>
@@ -12,13 +12,13 @@ Descripcion del escenario:</p>
 </ul>
 
 
-<p>Pasos para la configuración</p>
+<p><b>Pasos para la configuración</b></p>
 <ul>
 <li>1.- Descargar el zip CreacionClientes.zip y descomprimirlo en la carpeta C:\CreacionClientes</li>
 <li>2.- Crear la carpeta C:\CreacionClientesProcesados(vacía)</li>
 <li>3.- Crear la carpeta C:\ResultadoRPA y colocar el archivo resultado.xlsx</li>
 <li>4.- Instalar el servidor Tomcat V9.0</li>
-<li>5.- Colocar el contenido de la aplicacion Test(Test.zip) en la siguiente ruta: <C:\Tomcat 9.0>\webapps\Test (dependiendo de la ruta de instalacion de Tomcat) </li>
+<li>5.- Colocar el contenido de la aplicación Test(Test.zip) en la siguiente ruta: <C:\Tomcat 9.0>\webapps\Test (dependiendo de la ruta de instalación de Tomcat) </li>
 <li>5.- Descargar el archivo DemoRPAWeb.atmx que contiene la automatización</li>
 <li>6.- Ejecutar el robot</li>
 </ul>
