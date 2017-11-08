@@ -15,7 +15,7 @@ Descripcion del escenario:</p>
 <p>Pasos para la configuración</p>
 <ul>
 <li>1.- Descargar el zip CreacionClientes.zip y descomprimirlo en la carpeta C:\CreacionClientes</li>
-<li>2.- Crear la carpeta C:\CreacionClientesProcesados</li>
+<li>2.- Crear la carpeta C:\CreacionClientesProcesados(vacía)</li>
 <li>3.- Crear la carpeta C:\ResultadoRPA y colocar el archivo resultado.xlsx</li>
 <li>4.- Instalar el servidor Tomcat V9.0</li>
 <li>5.- Colocar el contenido de la aplicacion Test(Test.zip) en la siguiente ruta: <C:\Tomcat 9.0>\webapps\Test (dependiendo de la ruta de instalacion de Tomcat) </li>
@@ -23,5 +23,5 @@ Descripcion del escenario:</p>
 <li>6.- Ejecutar el robot</li>
 </ul>
 
-<p>NOTA: Los valores de los puertos del servidor tomcat pueden cambiar según donde se ejecuten, de ser necesario corregir el script.</p>
+<p>NOTA: Los valores de los puertos del servidor tomcat pueden cambiar según donde se ejecuten, de ser necesario corregir el script con los puertos correspondientes.</p>
 
